@@ -62,13 +62,7 @@ Now, you're in your work space, clone our Github project by this command:
 git clone https://github.com/TienDaniel/Create3_Grid_Spiral_Algo
 ```
 
-After that, we just need 'src' file. We can delete other irrelevant files manually or by using commands below. It will delete 'docs' folder and 'README.md' file:
-```bash
-rm -rf /docs
-rm -r /README.md
-```
-
-Finally, build and source:
+You will see 'src' folder in the current directory. Finally, build and source:
 ```bash
 colcon build --symlink-install
 source ~/my_ws/install/setup.bash
