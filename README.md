@@ -115,9 +115,5 @@ ros2 launch nav2_bringup navigation_launch.py use_sim_time:=false map_subscribe_
 ros2 run my_robot_controller waypoint_spiral
 ```
 
-##### Our website
-Every step we show above is pretty much all project. You can access to our website to look up for directions on how to run the codes and other related materials: 
-[CLick here](https://tiendaniel.github.io/Create3_Grid_Spiral_Algo/)
-
 ### 4.Contributing
 Contributions and feedback are welcome! Fork the repository, make your changes, and submit a pull request.
